@@ -1,0 +1,45 @@
+/* Centering the main container */
+#main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+/* Title styling */
+#title {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+/* Image styling */
+#img-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0;
+}
+
+#image {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Caption styling */
+#img-caption {
+    font-style: italic;
+    margin-top: 10px;
+}
+
+/* Tribute info styling */
+#tribute-info {
+    margin: 20px 0;
+    line-height: 1.6;
+}
+
+/* Link styling */
+#tribute-link {
+    color: blue;
+    text-decoration: underline;
+}
